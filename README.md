@@ -22,7 +22,7 @@
   <h3><b>Visitantes</b></h3>
 </div>
 <p align="center">
-    <img src="https://profile-counter.deno.dev/:dev-americo:/count.svg" alt="Key:: Número de visitantes no perfil" />
+    <img src="https://profile-counter.deno.dev/:devv-Antonio:/count.svg" alt="Key:: Número de visitantes no perfil" />
 </p>
 
 ---
