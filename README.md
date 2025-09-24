@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Antônio Lucas
 
-<!--
-**Devv-Antonio/devv-Antonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Ícones -->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Here are some ideas to get you started:
+ - 🎓 Estudante de Engenharia de Software UnB - FCTE
+ - 💻 Apaixonado por programação, tecnologia e aprendizado contínuo  
+ - 🚀 Sempre em busca de novos desafios e projetos interessantes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Gráficos e Estatísticas-->
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=devv-Antonio&show_icons=true&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devv-Antonio&layout=compact&theme=tokyonight)
+
+
+<div align="center">
+  <h3><b>Visitantes</b></h3>
+</div>
+<p align="center">
+    <img src="https://profile-counter.deno.dev/:dev-americo:/count.svg" alt="Key:: Número de visitantes no perfil" />
+</p>
+
+---
+### Entre em contato comigo! 📩
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antonioftb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOc4c3yWsQpajdE7llOzh1Q%3D%3D)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=antonio.lucasa06@gmail.com)
