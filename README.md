@@ -1,18 +1,18 @@
 # 👋 Olá, eu sou o Antônio Lucas
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student+UnB;Apaixonado+por+C%2C+Python+e+RISC-V;Dev+Next.js+%26+React;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+UnB;Apaixonado+por+C%2C+Python+e+RISC-V;Foco+em+Backend+e+Baixo+N%C3%ADvel;Sempre+aprendendo+coisas+novas..." alt="Typing SVG" />
 </div>
 
+<br/>
+
 <div align="center">
-  <a href="https://github.com/devv-Antonio">
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=devv-Antonio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=devv-Antonio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Minhas Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -25,21 +25,22 @@
 
 <br/>
 
-- 🎓 Estudante de Engenharia de Software UnB - FCTE
-- 💻 Foco em baixo nível (RISC-V/Assembly) e Desenvolvimento Web Moderno
-- 🚀 Trabalhando atualmente em sistemas com Alocação Dinâmica e CRUDs
+- 🎓 **Estudante de Engenharia de Software UnB - FCTE**
+- 💻 Foco em baixo nível (**RISC-V/Assembly**) e Desenvolvimento Web
+- 🚀 Atualmente estudando **Alocação Dinâmica** e **Estrutura de Dados**
 
 ---
 
-### 🐍 Minhas Contribuições (Snake Game)
+### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github.com/devv-Antonio/devv-Antonio/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devv-Antonio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devv-Antonio&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### Entre em contato comigo! 📩
+### 📬 Contato
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/antonioftb" target="_blank">
