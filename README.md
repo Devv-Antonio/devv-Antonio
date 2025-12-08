@@ -31,15 +31,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devv-Antonio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devv-Antonio&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ### 📬 Contato
 
 <div align="center"> 
