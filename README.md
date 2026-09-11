@@ -1,44 +1,52 @@
-# ⚡ Antônio Lucas
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Estagiário+de+Automação+(n8n+%2B+IA);Desenvolvedor+Web+%26+Sistemas+Embarcados" alt="Typing SVG" />
+</div>
 
-🎓 **Estudante de Engenharia de Software | UnB - FCTE**  
-💼 **Estagiário de Automação de Processos | Ceres Previdência**
-
-*"Focado em criar soluções eficientes por meio de automação, modelagem com IA e desenvolvimento de software robusto."*
-
----
-
-### 👨‍💻 Sobre Mim
-
-* ⚙️ **Atuação Profissional:** Atualmente sou estagiário na Ceres Previdência. Trabalho intensamente com **n8n** para a automação de processos organizacionais, modelagem utilizando Inteligência Artificial, além de prestar suporte direto à infraestrutura e aos usuários da instituição.
-* 💻 **Desenvolvimento:** Experiência prática e construção de projetos utilizando **Python**, **C**, e tecnologias voltadas para o **Desenvolvimento Web** (como TypeScript, Node.js e NestJS).
-* 🐧 **Ambiente:** Grande familiaridade com o ecossistema **Linux** (usuário diário da distribuição Pop!_OS), o que me permite otimizar o fluxo de trabalho e o deploy de serviços.
-* 🎯 **Objetivo:** Projetar sistemas acessíveis, automatizar serviços rotineiros e escalar meus conhecimentos arquiteturais em Engenharia de Software.
+<div align="center">
+  <a href="https://linkedin.com/in/antonioftb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:antonio.lucasa06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+## 👨‍💻 Sobre Mim
 
-Aqui estão as principais tecnologias e ferramentas que utilizam no meu dia a dia profissional e acadêmico:
+* ⚙️ **Atuação Profissional:** Estagiário na Ceres Previdência. Focado em automação de processos corporativos utilizando **n8n**, modelagem com Inteligência Artificial e suporte técnico à infraestrutura e usuários.
+* 🐧 **Ecossistema:** Usuário diário de Linux, o que agiliza meu fluxo de desenvolvimento, estruturação de servidores e deploy de aplicações.
+* 🎯 **Objetivo:** Projetar arquiteturas de software escaláveis, explorar os limites da automação de serviços e criar experiências otimizadas para o usuário final.
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | `Python` `C` `TypeScript` `JavaScript` |
-| **Desenvolvimento Web** | `Node.js` `NestJS` `React.js` `HTML/CSS` |
-| **Ferramentas & DevOps**| `Linux` `n8n` `Git` `GitHub` `VS Code` `Prisma ORM` |
+## 🛠️ Arsenal Tecnológico
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+</div>
 
-### 📚 O que estou estudando agora?
+## 🚀 O que estou estudando e construindo?
 
-1. **Projeto Integrador 1:** Desenvolvimento completo do robô autônomo **Micromouse**, integrando equipes multidisciplinares e gerenciando a documentação e versionamento do grupo.
-2. **Projetos e Sistemas Embarcados:** Aprofundando no desenvolvimento de soluções que unem computação física, eletrônica, e algoritmos de controle e navegação.
-3. **Automação & IA:** Explorando novas formas de integrar modelos inteligentes no dia a dia corporativo e na arquitetura de sistemas.
+* **Micromouse (Projeto Integrador 1):** Desenvolvimento multidisciplinar de um robô autônomo, atuando na liderança da equipe de software e na integração do projeto.
+* **Sistemas Embarcados:** Unindo software de baixo nível e hardware para controle de microcontroladores.
+* **I.A. e Processos:** Implementando inteligência artificial em fluxos de automação para modernização de ambientes corporativos.
 
----
+## 🐍 Minhas Contribuições
 
-### 📫 Entre em contato
-
-Será um prazer trocar ideias sobre tecnologia, automação e sistemas embarcados!
-
-* 💼 **LinkedIn:** [linkedin.com/in/antonioftb](https://linkedin.com/in/antonioftb)
-* 📧 **Email:** [antonio.lucasa06@gmail.com](mailto:antonio.lucasa06@gmail.com)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devv-Antonio/devv-Antonio/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devv-Antonio/devv-Antonio/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Game Animado" src="https://raw.githubusercontent.com/devv-Antonio/devv-Antonio/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
